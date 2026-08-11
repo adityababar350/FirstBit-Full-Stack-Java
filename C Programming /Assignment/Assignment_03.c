@@ -1,7 +1,6 @@
 /*1 Print numbers from 1 to 10 
 Output: 1 2 3 4 5 6 7 8 9 10*/
 #include <stdio.h>
-
 int main()
 {
     int i;
@@ -18,7 +17,6 @@ int main()
 Input: n = 5 
 Output: 5 10 15 20 25 30 35 40 45 50 */
 #include <stdio.h>
-
 int main()
 {
     int n, i;
@@ -40,7 +38,6 @@ Input: start = 1, end = 5
 Output: 15 
 Assignment 3 */ 
 #include <stdio.h>
-
 int main()
 {
     int start, end, i, sum = 0;
@@ -62,7 +59,6 @@ int main()
 Input: n = 7 
 Output: Prime */
 #include <stdio.h>
-
 int main()
 {
     int n, i, flag = 1;
@@ -98,7 +94,6 @@ int main()
 Input: n = 153 
 Output: Armstrong*/ 
 #include <stdio.h>
-
 int main()
 {
     int n, temp, rem, sum = 0;
@@ -127,7 +122,6 @@ int main()
 Input: n = 28 
 Output: Perfect*/
 #include <stdio.h>
-
 int main()
 {
     int n, i, sum = 0;
@@ -153,7 +147,6 @@ int main()
 Input: n = 5 
 Output: 120 */
 #include <stdio.h>
-
 int main()
 {
     int n, i;
@@ -176,7 +169,6 @@ int main()
 Input: n = 145 
 Output: Strong */
 #include <stdio.h>
-
 int main()
 {
     int n, temp, rem, sum = 0, i, fact;
@@ -212,7 +204,6 @@ int main()
 Input: n = 121 
 Output: Palindrome */ 
 #include <stdio.h>
-
 int main()
 {
     int n, temp, rem, rev = 0;
@@ -241,7 +232,6 @@ int main()
 Input: n = 12345 
 Output: 6 (1 + 5)*/
 #include <stdio.h>
-
 int main()
 {
     int n, first, last;
