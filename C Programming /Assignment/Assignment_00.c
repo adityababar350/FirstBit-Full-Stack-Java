@@ -77,7 +77,6 @@ int main()
 
 // Q8. Write a C program to input the length and width of a rectangle and find its perimeter.
 #include<stdio.h>
-
 int main()
 {
     int length = 10, width = 5, perimeter;
@@ -88,7 +87,6 @@ int main()
 
 // Q9. Write a C program to input the base and height of a triangle and calculate its area. 
 #include<stdio.h>
-
 int main()
 {
     float base = 10, height = 8, area;
@@ -99,7 +97,6 @@ int main()
 
 // Q10.  Write a C program to input marks of five subjects, find the total marks, and calculate the percentage. 
 #include<stdio.h>
-
 int main()
 {
     int m1 = 80, m2 = 75, m3 = 90, m4 = 85, m5 = 70;
