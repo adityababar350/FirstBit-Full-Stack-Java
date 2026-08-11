@@ -68,7 +68,6 @@ int main()
 
 // Q5Write a program to check whether a person is eligible to vote (age ≥ 18).
 #include<stdio.h>
-
 int main()
 {
     int age = 20;
@@ -83,7 +82,6 @@ int main()
 
 // Q6. Write a program to check whether a given character is uppercase or lowercase.
 #include<stdio.h>
-
 int main()
 {
     char ch = 'G';
@@ -101,7 +99,6 @@ int main()
 /* Q7. Calculating total salary based on basic. If basic <=5000 da, ta and hra will be 
  10%,20% and 25% respectively otherwise da, ta and hra will be 15%,25% and 30%  respectively.*/
 #include<stdio.h>
-
 int main()
 {
     float basic = 6000;
