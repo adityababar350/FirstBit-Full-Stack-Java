@@ -1,6 +1,5 @@
 //1. Print armstrong numbers in the given range 1 to n. 
 #include <stdio.h>
-
 int main()
 {
     int n, i, temp, rem, sum;
@@ -31,7 +30,6 @@ int main()
 
 //2. Print prime numbers in the given range 1 to n. 
 #include <stdio.h>
-
 int main()
 {
     int n, i, j, flag;
@@ -63,7 +61,6 @@ int main()
 
 // 3. Print perfect numbers in the given range 1 to n.
 #include <stdio.h>
-
 int main()
 {
     int n, i, j, sum;
@@ -94,7 +91,6 @@ int main()
 
 //4. Print strong numbers in the given range 1 to n. 
 #include <stdio.h>
-
 int main()
 {
     int n, i, temp, rem, sum, fact, j;
@@ -138,7 +134,6 @@ int main()
          5.To reverse a number. 
          6.To find sum of digits. */
 #include <stdio.h>
-
 int main()
 {
     int choice, n, temp, rem, rev = 0, sum = 0, i, flag = 1;
