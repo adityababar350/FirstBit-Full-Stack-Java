@@ -1,6 +1,5 @@
 // 1. Accept two numbers from user and an operator (+,-,/,*,%) based on that perform the desired operations.
 #include <stdio.h>
-
 int main()
 {
     int a, b;
@@ -31,7 +30,6 @@ int main()
 
 // 2. Accept three sides of a triangle from the user and determine whether the triangle is equilateral, isosceles, or scalene. 
 #include <stdio.h>
-
 int main()
 {
     int a,b,c;
@@ -51,7 +49,6 @@ int main()
 
 // 3. Write a program to find greatest of three numbers using nested if-else.
 #include <stdio.h>
-
 int main()
 {
     int a,b,c;
@@ -86,7 +83,6 @@ If marks are 40 or more → show "Pass Class"
 If marks are less than 40 → show "Fail" */
 
 #include <stdio.h>
-
 int main()
 {
     int marks;
@@ -114,7 +110,6 @@ discount is 10%.But if he is not a student then if he has purchased more than 60
 discount is 15% otherwise there is not discount.*/
 
 #include <stdio.h>
-
 int main()
 {
     float price;
@@ -148,7 +143,6 @@ int main()
 (Print "Divisible by 3 but not by 5" or "Divisible by 5 but not by 3" or "Divisible by 
 both" or” Divisible by None”) */
 #include <stdio.h>
-
 int main()
 {
     int n;
@@ -171,7 +165,6 @@ int main()
 /* 7. Accept the age and check if the person is: 
 Child (age < 12),Teenager (12–19),Adult (20–59),Senior (60 and above) */
 #include <stdio.h>
-
 int main()
 {
     int age;
