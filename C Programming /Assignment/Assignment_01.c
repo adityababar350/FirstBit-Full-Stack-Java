@@ -47,7 +47,6 @@ int main()
 
 // 4. Write a program to check whether a given character is a vowel or consonant.
 #include <stdio.h>
-
 int main()
 {
     char ch = 'A';
