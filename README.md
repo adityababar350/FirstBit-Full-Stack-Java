@@ -1,6 +1,3 @@
-# FirstBit-Full-Stack-Java
-Assignments and projects for FirstBit Full Stack Java Training.
-
 # FirstBit Full Stack Java
 
 This repository contains my **assignments, practice programs, projects, and learning resources** completed during my **FirstBit Full Stack Java Training**.
