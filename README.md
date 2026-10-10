@@ -177,7 +177,7 @@ Each program is added to GitHub to maintain a record of my learning and coding p
 
 ## 📈 Learning Progress
 
-* [ ] C Programming Practice
+* [*] C Programming Practice
 * [ ] Core Java
 * [ ] DSA
 * [ ] Advanced Java
